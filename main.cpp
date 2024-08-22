@@ -16,8 +16,8 @@
 using namespace std;
 
 int main(){
-  cout<<"Name: Sujata Yadav"<<endl;
-  cout<<"Enrolment Number: 10801012021"<<endl;
+  cout<<"Name: SUMIT YADAV"<<endl;
+  cout<<"Enrolment Number: 2021208"<<endl;
   cout<<endl;
   char ch='y'; int opt; int subopt;
   while((ch=='y') || (ch=='Y'))
